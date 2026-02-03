@@ -2,6 +2,8 @@
 
 A basic recipe website in HTML only, created as part of [the Odin Project](https://www.theodinproject.com/lessons/foundations-recipes).
 
+[Live Preview](https://fumobern.github.io/odin-recipes/)
+
 ## Goal
 
 Demonstrate basic HTML skills, including:
