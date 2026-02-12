@@ -2,16 +2,21 @@
 
 A basic recipe website in HTML only, created as part of [the Odin Project](https://www.theodinproject.com/lessons/foundations-recipes).
 
+Later updated with CSS during the [Block and Inline lesson](https://www.theodinproject.com/lessons/foundations-block-and-inline).
+
 [Live Preview](https://fumobern.github.io/odin-recipes/)
 
 ## Goal
 
-Demonstrate basic HTML skills, including:
-- Organizing paragraphs and headers
+Demonstrate basic HTML and CSS skills, including:
+- Organizing paragraphs, headers and containers
 - Working with relative and absolute links
 - Creating ordered and unordered lists
 - Managing file paths
 - Displaying images
+- Applying external CSS using class and id attributes
+- Mastering CSS box model
+- Understanding block and inline elements
 
 ## Credits
 
